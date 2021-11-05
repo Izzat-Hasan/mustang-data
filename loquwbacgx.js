@@ -1,5 +1,4 @@
 {
-
     "Name": "Darth Vader",
     "email": "Darthvader@lewisu.edu",
     "phoneNumber": "800-Darthvader",

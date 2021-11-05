@@ -1,5 +1,5 @@
 [
-  { "Name":"Izzat Hasan", "Email":"Izzathasan@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/ldw6txsjg6.json" },
-  { "Name":"Izzat Hasan", "Email":"Izzathasan@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/ldw6txsjg5.json" },
-  { "Name":"Izzat Hasan", "Email":"Izzathasan@lewisu.edu", "ContactURL":"https://mustang-index.azurewebsites.net/y2882154268.json" }
+  { "Name":"Izzat Hasan", "Email":"Izzathasan@lewisu.edu", "ContactURL":"https://white-ground-02cbf6f10.azurestaticapps.net/tputwyjoan.json" },
+  { "Name":"Izzat Hasan", "Email":"Izzathasan@lewisu.edu", "ContactURL":"https://white-ground-02cbf6f10.azurestaticapps.net/gghivsitpe.json" },
+  { "Name":"Izzat Hasan", "Email":"Izzathasan@lewisu.edu", "ContactURL":"https://white-ground-02cbf6f10.azurestaticapps.net/loquwbacgx.json" }
 ]

@@ -1,0 +1,11 @@
+{
+
+    "Name": "Darth Vader",
+    "email": "Darthvader@lewisu.edu",
+    "phoneNumber": "800-Darthvader",
+    "city": "Coruscant",
+    "zip": "28461",
+    "lat": "33.9182",
+    "lng": "-78.0193",
+    "favoriteHobby": "villain"
+}
